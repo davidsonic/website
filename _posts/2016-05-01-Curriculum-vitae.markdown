@@ -18,7 +18,7 @@ Jiali Duan, Shengcai Liao, Xiaoyuan Guo, Stan Z. Li., "Face detection by aggrega
 
 ### Research history:
 
-#### <a href="https://github.com/PositronicsLab/Ravelin" target="_blank">Positronics Lab</a>
+#### <a href="http://ceit.ucas.ac.cn/" target="_blank">School of Engineering Science</a>
  University of Chinese Academy of Sciences (UCAS)
 : Master
 : September 2014 – Present
@@ -26,7 +26,7 @@ Jiali Duan, Shengcai Liao, Xiaoyuan Guo, Stan Z. Li., "Face detection by aggrega
 
 
 
-#### <a href="http://www.iit.it/en/advr-labs/dynamic-legged-systems.html" target="_blank">Dynamic Legged Systems Lab</a>
+#### <a href="http://cs.tjut.edu.cn/" target="_blank">School of Computer Science and Communciation</a>
 Tianjing University of Technology (TJUT)
 : Bachelor
 : September 2010 – Jun 2014

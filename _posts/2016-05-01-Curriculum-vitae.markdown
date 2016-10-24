@@ -11,9 +11,9 @@ description: Curriculum vitae
 
 #### Publications
 
-Xiaoyuan Guo, Jun Xiao and  Ying Wang, "A survey on algorithms of hole filling  in 3D surface", <i>The Visual Computer[J]</i>, Sep 2016. [<a href="http://github.com/davidsonic/website/A Survey on Algorithms of Hole Filling in 3D Surface Reconstruction.pdf">XiaoyuanGuo2016</a>]
+Lab</a> Xiaoyuan Guo, Jun Xiao and  Ying Wang, "A survey on algorithms of hole filling  in 3D surface", <i>The Visual Computer[J]</i>, Sep 2016. [<a href="http://github.com/davidsonic/website/A Survey on Algorithms of Hole Filling in 3D Surface Reconstruction.pdf">XiaoyuanGuo2016</a>]
 
-Jiali Duan, Shengcai Liao, Xiaoyuan Guo, Stan Z. Li., "Face detection by aggregating visible components", <i>ACCV Workshop</i>, 2016. [<a href="http://github.com/davidsonic/website/accv2016finalpaper.pdf">XiaoyuanGuo2016</a>]
+Jiali Duan, Shengcai Liao, Lab</a> Xiaoyuan Guo, Stan Z. Li., "Face detection by aggregating visible components", <i>ACCV Workshop</i>, 2016. [<a href="http://github.com/davidsonic/website/accv2016finalpaper.pdf">XiaoyuanGuo2016</a>]
 
 
 ### Research history:

@@ -6,7 +6,7 @@ img: resume-icon.png
 alt: "CV"
 project-date: May 2016
 category: Resume
-description: Curriculum vitae 
+description: Curriculum vitae guoxiaoyuan
 ---
 
 #### Publications in legged robotic locomotion

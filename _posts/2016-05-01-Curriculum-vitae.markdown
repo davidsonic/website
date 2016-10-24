@@ -11,9 +11,9 @@ description: Curriculum vitae
 
 #### Publications
 
-Xiaoyuan Guo, Jun Xiao and  Ying Wang, "A survey on algorithms of hole filling  in 3D surface", <i>The Visual Computer[J]</i>, Sep 2016. [<a href="http://robotics.gwu.edu/positronics/wp-content/uploads/2016/06/Zapolsky_2016_DW.pdf">Zapolsky2016</a>]
+Xiaoyuan Guo, Jun Xiao and  Ying Wang, "A survey on algorithms of hole filling  in 3D surface", <i>The Visual Computer[J]</i>, Sep 2016. [<a href="http://github.com/davidsonic/website/tree/gh-pages/A Survey on Algorithms of Hole Filling in 3D Surface Reconstruction.pdf">XiaoyuanGuo2016</a>]
 
-Jiali Duan, Shengcai Liao, Xiaoyuan Guo, Stan Z. Li., "Face detection by aggregating visible components", <i>ACCV Workshop</i>, 2016. [<a href="http://positronicslab.github.io/assets/pdfs/inverse-dynamics.pdf">Zapolsky2015b</a>]
+Jiali Duan, Shengcai Liao, Xiaoyuan Guo, Stan Z. Li., "Face detection by aggregating visible components", <i>ACCV Workshop</i>, 2016. [<a href="http://github.com/davidsonic/website/tree/gh-pages/inverse-dynamics.pdf">XiaoyuanGuo2016</a>]
 
 #### Publications in robotic simulation 
 

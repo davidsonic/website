@@ -1,10 +1,10 @@
 # Site settings
-title: Samuel Zapolsky
-email: samzapo@gmail.com
-url: https://samzapo.github.io
-description: "The research and coding homepage for Samuel Zapolsky.  Contains blog posts for recent successful research endeavors and up-to-date news about ongoing research."
+title: Guo Xiaoyuan
+email: xiaoyuanguo.ucas@gmail.com
+url: https://xiaoyuanguo.github.io
+description: "The research and coding homepage for Guo Xiaoyuan.  Contains blog posts for recent successful research endeavors and up-to-date news about ongoing research."
 skills: "Getting robots to run without breaking themselves | More difficult than it sounds"
-meta_author: Zapolsky Samuel
+meta_author: Xiaoyuan Guo
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 gems: [jekyll-paginate]
@@ -34,27 +34,27 @@ color:
 
 # Footer settings
 footer:
-  copyright: Samuel Zapolsky
-  location: Washington, DC
+  copyright: Guo Xiaoyuan
+  location: Beijing, China
   social: On the Interwebs
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/BoopBeepRobot
-  - title: instagram
-    url: https://www.instagram.com/the_robot_overlord/
+  - title: QQ
+    url:
+  - title: Weixin
+    url:
   - title: github
-    url: http://github.com/samzapo
+    url: http://github.com/xiaoyuanguo
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 800 22nd St NW
-  - line: Washington, DC 20052
+  - line: University of Chinese Academy of Sciences
+  - line: Beijing, China
 
 # Credits content
-credits: 'Samuel Zapolsky is a Ph.D. Student working in the Positronics Lab @ GWU, for more info on our research visit <a href="http://positronicslab.github.io/">Positronics Lab Homepage</a>'
+credits: 'Guo Xiaoyuan is a M.S. Student at UCAS, for more info on our research visit <a href="http://guoxiaoyuan.github.io/">Vision Lab Homepage</a>'
 
 # Build settings
 markdown: kramdown

@@ -26,7 +26,7 @@ Jiali Duan, Shengcai Liao, Xiaoyuan Guo, Stan Z. Li., "Face detection by aggrega
 
 
 
-#### <a href="http://cs.tjut.edu.cn/" target="_blank">School of Computer Science and Communciation</a>
+#### <a href="http://cs.tjut.edu.cn/" target="_blank">School of Computer and Communciation Engineering</a>
 Tianjing University of Technology (TJUT)
 : Bachelor
 : September 2010 – Jun 2014

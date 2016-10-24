@@ -36,6 +36,11 @@ h6 {
     font-weight: 700;
 }
 
+.head-logo{
+    border-radius:50%;
+    border: 3px solid white;
+
+}
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;

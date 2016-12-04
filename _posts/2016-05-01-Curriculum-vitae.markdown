@@ -13,9 +13,9 @@ description: Curriculum vitae
 
 Xiaoyuan Guo, Jun Xiao and  Ying Wang, "A survey on algorithms of hole filling  in 3D surface", <i>The Visual Computer[J]</i>, Sep 2016. [<a href="A Survey on Algorithms of Hole Filling in 3D Surface Reconstruction.pdf">XiaoyuanGuo2016</a>]
 
-Jiali Duan, Shengcai Liao, Xiaoyuan Guo, Stan Z. Li., "Face detection by aggregating visible components", <i>ACCV Workshop</i>, 2016. [<a href="accv2016finalpaper.pdf">XiaoyuanGuo2016</a>]
+Jiali Duan, Shengcai Liao, Xiaoyuan Guo, Stan Z. Li, "Face detection by aggregating visible components", <i>ACCV Workshop (Oral Presentation)</i>, 2016. [<a href="accv2016finalpaper.pdf">XiaoyuanGuo2016</a>]
 
-
+Jiali Duan, Shuai Zhou, Jun Wan, Xiaoyuan Guo, and Stan Z. Li, "Multi-Modality Fusion based on Consensus-Voting and 3D Convolution for Isolated Gesture Recognition", <i>CVPR (Submitted)</i>, 2017. [<a href="https://arxiv.org/pdf/1611.06689v1.pdf">XiaoyuanGuo2016</a>]
 ### Research history:
 
 #### <a href="http://ceit.ucas.ac.cn/" target="_blank">School of Engineering Science</a>

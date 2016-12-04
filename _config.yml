@@ -3,7 +3,7 @@ title: Guo Xiaoyuan
 email: xiaoyuanguo.ucas@gmail.com
 url: https://xiaoyuanguo.github.io
 description: "The research and coding homepage for Guo Xiaoyuan.  Contains blog posts for recent successful research endeavors and up-to-date news about ongoing research."
-skills: "Getting robots to run without breaking themselves | More difficult than it sounds"
+skills: "3D reconstruction, face detection and gesture recognition"
 meta_author: Xiaoyuan Guo
 paginate_path: "blog/page:num/"
 permalink: blog/:title/

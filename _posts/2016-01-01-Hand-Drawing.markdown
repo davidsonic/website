@@ -13,5 +13,5 @@ Keywords: <a href="http://positronicslab.github.io/research/simulation/">Jimi</a
 ---
 
 ### Taking Photos
-![taking-photo](https://github.com/davidsonic/website/blob/gh-pages/img/Taking-photos.jpg)
+![taking-photo](https://github.com/davidsonic/website/img/Taking-photos.jpg)
 

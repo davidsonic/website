@@ -1,0 +1,24 @@
+---
+layout: post
+modal-id: 3
+date: 2016-12-04
+img: setup-icon.png
+alt: "Activity"
+project-date: December 2016
+category: Activity
+description: Here is my mood:
+
+Keywords: <a href="http://positronicslab.github.io/research/simulation/">Jimi</a>, <a href="http://positronicslab.github.io/research/locomotion/">Illustor</a>
+---
+
+### Taking Photos
+![taking-photo](img/Taking-photos.jpg)
+
+### Cute Cartoons
+![cartoons](img/Pop.jpg)
+
+### Singing Pic
+![Singing](img/sing.jpg)
+
+### VOLUNTEER
+![volunteer](img/volunteer.jpg)

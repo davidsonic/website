@@ -9,7 +9,7 @@ category: Resume
 description: Curriculum vitae
 ---
 
-#### Publications
+### Publications
 
 Xiaoyuan Guo, Jun Xiao and  Ying Wang, "A survey on algorithms of hole filling  in 3D surface", <i>The Visual Computer[J]</i>, Sep 2016. [<a href="A Survey on Algorithms of Hole Filling in 3D Surface Reconstruction.pdf">XiaoyuanGuo2016</a>]
 

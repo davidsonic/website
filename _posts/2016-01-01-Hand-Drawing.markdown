@@ -12,3 +12,6 @@ drawn by me are showed as following:
 Keywords: <a href="http://positronicslab.github.io/research/simulation/">Jimi</a>, <a href="http://positronicslab.github.io/research/locomotion/">Illustor</a>
 ---
 
+### Taking Photos
+![taking-photo](https://github.com/davidsonic/website/blob/gh-pages/img/Taking-photos.jpg)
+
